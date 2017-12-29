@@ -3,4 +3,9 @@
 
 void hello();
 
+bool init();
+
+bool init(char *key);
+
+
 #endif
